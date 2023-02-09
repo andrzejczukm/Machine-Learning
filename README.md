@@ -1,1 +1,1 @@
-# Machine-Learning. This repository holds projects focused on model creation using Python programming language and popular packages like scikit-learn. The aim is to demonstrate the capabilities of these tools in building effective models
+Machine-Learning. This repository holds projects focused on model creation using Python programming language and popular packages like scikit-learn. The aim is to demonstrate the capabilities of these tools in building effective models
